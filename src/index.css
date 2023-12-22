@@ -1,0 +1,15 @@
+body {
+  font-family: Georgia, serif;
+  background-color: #f0ece2;
+  margin: 13px;
+  padding: 0;
+}
+
+#logo-image {
+  width: 30px;
+  margin-right: 10px;
+}
+
+.book-cards:hover {
+  transform: translateY(-5px);
+}
